@@ -15,5 +15,5 @@ This application updates the page by customizing its layout with different HEX o
 - [x] array.length
 
 <p align="center">
-  <img src="./assets/Preview.jpg" width="500" title="hover text">
+  <img src="./assets/Preview.jpg" width="500" title="Color flipper">
 </p>
