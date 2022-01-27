@@ -13,3 +13,7 @@ This application updates the page by customizing its layout with different HEX o
 - [x] Math.floor()
 - [x] Math.random()
 - [x] array.length
+
+<p align="center">
+  <img src="./assets/Preview.jpg" width="500" title="hover text">
+</p>
