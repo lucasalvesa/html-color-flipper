@@ -14,6 +14,5 @@ This application updates the page by customizing its layout with different HEX o
 - [x] Math.random()
 - [x] array.length
 
-<p align="center">
-  <img src="./assets/Preview.jpg" width="600" title="Color flipper">
-</p>
+  ![image](https://github.com/user-attachments/assets/ac15a077-e898-40fc-bb9c-bc886dcdaae8)
+
